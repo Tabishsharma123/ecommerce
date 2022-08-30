@@ -1,0 +1,23 @@
+.bg-color {
+    background-color: #FFFDD0;
+}
+
+.item-dashboard {
+    background-color: #15466b;
+}
+
+/* Navbar */
+.navbar-nav a {
+  font-size: 18px;
+  ;
+}
+
+.profile-container{
+  background-color:  #FFFDD0;
+}
+
+.footer{
+  background-color: #212529;
+  color: white;
+}
+
